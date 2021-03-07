@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "personal-273214",
+  "private_key_id": "fce87aa4333e401cdee5c73c6adf9370bcc6ff02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZd8Ph+W549YXC\n7QiwcqdmesLNBSbpgMpO1YUuDLgwG1AjEz0gKrGZ0MHtwTfXAMSR4TRLfPc3eLUL\nkwhIm7t6a8U22oICVQX18JipgcDYpyrskBS5REGWC3nx3H0iE6A/IRiljbu2kHEY\nEjh+vImniziFU7F3+xo9ZolLkiKvsFqtJXhuEnHKl4KH6UeoW20LJztH3M7ygBvm\nCFKanbHxLEc/bClem6s0oZaEwM/HvPr4fYhCh+hQ0To8g0HgDi03j1L9S5pjlwN8\nkNYgY0Gs3rtgLEvETmGxznDL4HFWL1Z84nQhpnSgak+2IlACTOUGDqZaLf70xJNH\nn/3mRADRAgMBAAECggEADGF7SVOZMKGAyafTS3Fhmq3hRokVLazPh8Sz+frPJyz8\n51xOafUISrKmAc5S6qaQamI9BxGwpOu2OfgXXAPivO3jCtQOnAmhZt65YEgi9aqx\nwMlUprYOOlfBq+2CwcSGhmWQ2McMkXCgga9y4DNFboCYeY254DPvauC6Lw9dMm2P\n06791VE2n5gbecVGJ4esFogYRBlbWQz31be9QPw5PrHVum8YD4shbYvNzUbEcUW3\nRKsjnMxu85f/LOLmtXhgoFLVSJt2Z4eX99ABRn1KuZUbjovHY5qTuEBGMdyxSFsc\nKEIJ3PgTyGAFH7oZY42rkiL73+pN2Nl8/z/1f/lPAQKBgQD85+WXB7V6auLql+o7\n+LJbTQ4/7gRHCE8SLaTVHjWDNwGlIBS0s5pNIG3+H3HKTpKZdIHXicGtc9tx7Q1f\nWDJZy48kGao2jiwKwz8NpqDYmkWciwDUK2caefLLQKM0Mib7TzKwQemi9Ky7ADXi\nrwtqTqGBm7UDcu4JRsVaocc1gQKBgQDcIOBNgt5FDBpf6DERptapl7seCcaXr0z/\nJCoZIlIo0KYN77PpKWjsEWPDRdHQrqV1oqi6SfIU4m95H3yi+qQDDyMbnzLjt+oy\nEHMzH/NDv20Wc5SaNiW3+gfI+QAc3TK28F5J486Sf+cFysH5V+IOqEJjjoJUelPn\nW//isgOTUQKBgAd7iPRt+vWTQgF02y5JDmXbIsfLb/72BPjhttXDXgvyza6oA1TR\nV4hepEJ3hbNZncbChrDs13kdS2nUfKfMgTjc5/BGfh29GRp8aloqCuo9rj+ScUTV\nv+gtoXxX/jwmG7clwbcrTBFRMecae32odisABpFCHRnsBZTqrh4fWTiBAoGAW9nT\n/kPHHySHtNEb+HOXSrinOUd2+EALbsLWVhp+Ec3OHC6S8Y133Fj9ObPecqcNH2K5\n6NGGE7TQMsgyp4bR/PzJ93KcN2y8aht3FjQUu4YarK2ZqidB4dyQdwl/RIv/51mw\n3kASKAr6iO4rtjE3gEoxOX1zYHCSpg07XopM96ECgYAcqNGWkNkU0WJXWVacHakS\nJz9S7737Ow+weYciQNPnWn4ix5/seWLU7Lvq4/WBaV4ZrytifZUnzL1nyPkyJC9I\nGOeB8DAKsbfXXYlPlUfDQ4N1qrKusAYr2Z2SCgZyNG+P+Tjt6L4ItebPQhD1aDQl\nmcCHfyZlC35zVW1hGovphQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ejercicio-semana-6@personal-273214.iam.gserviceaccount.com",
+  "client_id": "116065638641626187333",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ejercicio-semana-6%40personal-273214.iam.gserviceaccount.com"
+}
